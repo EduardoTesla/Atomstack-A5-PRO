@@ -16,3 +16,4 @@ https://drive.google.com/drive/folders/1SkqqKSbadxprcmEi-hqMsfRkLfDpcT5d
 Es una actualizacion para Atomstack X7 PRO pero es compatible con la A5 PRO 
 
 
+Seria genial poder usarla con FluidNC, me dare a la tarea de averiguar cuales son las gpio que estan enb uso en la LASER 32-A5 V1.0
