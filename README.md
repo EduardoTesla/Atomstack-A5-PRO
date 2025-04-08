@@ -1,6 +1,9 @@
 # Atomstack-A5-PRO
 Firmware install/upgrade
-Por error formatee el ESP32 de la tarjeta Laser 32-A5 V1.0, al instalar FluidNC en otra ESP32. Me equivoque de puerto COM y formatee el de la atomstack
+
+Por error formatee el ESP32 de la tarjeta Laser 32-A5 V1.0, al instalar FluidNC en otra ESP32. 
+
+Me equivoque de puerto COM y formatee el de la atomstack
 
 ![Laser 32_A5 V1 0](https://github.com/user-attachments/assets/cc9b9ff7-28e9-4ba1-bfe4-72e1b95b2374)
 
