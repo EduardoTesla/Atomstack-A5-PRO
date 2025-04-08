@@ -1,21 +1,18 @@
 # Atomstack-A5-PRO
-Firmware upgrade
-Por error formatee el esp32 de la tarjeta Laser 32-A5 V1.0, al estar actualizando el esp 32 con FluidNC
+Firmware install/upgrade
+Por error formatee el ESP32 de la tarjeta Laser 32-A5 V1.0, al instalar FluidNC en otra ESP32. Me equivoque de puerto COM y formatee el de la atomstack
 
 ![Laser 32_A5 V1 0](https://github.com/user-attachments/assets/cc9b9ff7-28e9-4ba1-bfe4-72e1b95b2374)
 
-Lo necesario para instalar/actualizar el firmware 
-Firmware X7V2022052301.bin 
-MKSLaserTool.exe
+En si, la tarjeta quedo desconfigurada por lo tanto no se podia usar. 
 
-Procedimiento
-Ubicar el puerto COM al que se conecta la tarjeta
-Instalar MKSLaserTool.exe, el penultimo de arriba a abajo cambia el lenguaje a ingles
-Iniciar MKS ESP32 Downlñoader tool
-SPI Speed 80 mhz
-Flash Size 8 Mb
-COM El detectado en administrador de dispositivos
-BAUD 115200
+Despues de buscar soporte o informacion al respecto no encontre nada y al querer usar FluidNC 
+desconozco los GPIO que vienen ya conectadas en la tarjeta, habria que hacer ingenieria inversa y eso esta fuera de mi alcance
 
 
-Editando...
+Asi que continue buscando informacion y despuies de un largo tiempo en contre la siguiente  
+https://drive.google.com/drive/folders/1SkqqKSbadxprcmEi-hqMsfRkLfDpcT5d
+
+Es una actualizacion para Atomstack X7 PRO pero es compatible con la A5 PRO 
+
+
