@@ -13,7 +13,7 @@ desconozco los GPIO que vienen ya conectadas en la tarjeta, habria que hacer ing
 Asi que continue buscando informacion y despuies de un largo tiempo en contre la siguiente  
 https://drive.google.com/drive/folders/1SkqqKSbadxprcmEi-hqMsfRkLfDpcT5d
 
-Es una actualizacion para Atomstack X7 PRO pero es compatible con la A5 PRO 
+Es una actualizacion para Atomstack X7 PRO pero es compatible con la A5 PRO, esta actualizacion habilita el wifi, se debe colocar antena ya que la señal es muy debil.
 
 
 Seria genial poder usarla con FluidNC, me dare a la tarea de averiguar cuales son las gpio que estan enb uso en la LASER 32-A5 V1.0
